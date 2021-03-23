@@ -1,0 +1,60 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  min-height: 400px;
+  background-image: url('./image/undraw_convert_2gjv.png');
+  /* background-color: #000000; */
+  background-size: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #000;
+  margin: 0 0 5px;
+  font-weight: bold;
+}
+
+input {
+  height: 27px;
+  border-radius: 10px;
+  text-align-last: center;
+}
+
+#res {
+  color: #000;
+  height: 27px;
+  border-radius: 10px;
+  background-color: #fffafa;
+}
+
+#opcoes {
+  height: 25px;
+  margin-top: 35px;
+  border-radius: 10px;
+  text-align-last: center;
+}
+
+.opcoes {
+  border-radius: 10px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.button .btn {
+  margin-top: 15px;
+  width: 13.3rem;
+}
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
